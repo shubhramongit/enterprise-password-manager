@@ -36,7 +36,6 @@ A highly secure, full-stack password manager built with the MERN stack (MongoDB,
 
 ### 1. Frontend Configuration
 
-Bash
 cd client
 npm install
 npm start
@@ -47,7 +46,6 @@ npm start
 2. Ensure the path is your root directory: `C:\Users\SHUBHRAM\Documents\Enterprise-Password-Manager>`. (If it says `client` or `server`, type `cd ..` to go back).
 3. Type these three commands one by one, hitting Enter after each:
 
-```bash
 git init
 git add .
 git commit -m "feat: finalized zero-knowledge architecture and added documentation"
